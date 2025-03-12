@@ -1,5 +1,5 @@
 # shiny-apps-showcase
-A collection of four interactive Shiny applications useful for researches who work on the pain studies to understand the exististing pu and visualization. Explore applications related to hDRG Spatial Transcriptomics, Neuropathic Pain, long read sequencing and Proteomics data. Each app provides an intuitive interface to analyze and interpret data effectively.
+A collection of four interactive Shiny applications that I have developed while working with Center for Advanced Pain Studies, Nueroscience department of UT Dallas to help the researchers researches who work on the pain studies to showcase their work to the public through insightful dashboards. Explore applications related to hDRG Spatial Transcriptomics, Neuropathic Pain, long read sequencing and Proteomics data. Each app provides an intuitive interface to analyze and interpret data effectively.
 
 List of Applications
 ## 1. hDRG Spatial Transcriptomics and Neuropathic Pain
