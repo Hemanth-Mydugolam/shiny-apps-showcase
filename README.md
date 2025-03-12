@@ -1,20 +1,27 @@
 # shiny-apps-showcase
 A collection of four interactive Shiny applications for data analysis and visualization. Explore applications related to hDRG Spatial Transcriptomics, Neuropathic Pain, long read sequencing and Proteomics data. Each app provides an intuitive interface to analyze and interpret data effectively.
 
-📌 Applications Overview
+List of Applications
+## 1. hDRG Spatial Transcriptomics and Neuropathic Pain
 
-1️⃣ hDRG Spatial Transcriptomics and Neuropathic Pain
+**Description:** Briefly describe what this app does. (E.g., "This application visualizes gene expression data with interactive plots.")
 
-🔹 Description: Briefly describe what this app does. (E.g., "This application visualizes gene expression data with interactive plots.")🔗 Live Demo: [[RNA-Data Dashboard](https://sensoryomics.shinyapps.io/RNA-Data/)]
+🔗 Application Link: [[RNA-Data Dashboard](https://sensoryomics.shinyapps.io/RNA-Data/)]
 
-2️⃣ Interactome
+## 2. Interactome
 
-🔹 Description: Briefly describe what this app does. (E.g., "This dashboard enables users to analyze spatial transcriptomics data interactively.")🔗 Live Demo: [[Interactome Analsis Tool](https://sensoryomics.shinyapps.io/Interactome/)]📂 Source Code: [GitHub Repository Link]
+**Description:** Briefly describe what this app does. (E.g., "This dashboard enables users to analyze spatial transcriptomics data interactively.")
 
-3️⃣ Proteomic
+🔗 Application Link: [[Interactome Analsis Tool](https://sensoryomics.shinyapps.io/Interactome/)]
 
-🔹 Description: Briefly describe what this app does. (E.g., "A visualization tool for single-cell RNA sequencing data.")🔗 Live Demo: [[Proteomics Dashboard](https://sensoryomics.shinyapps.io/Proteomics/)]📂 Source Code: [GitHub Repository Link]
+## 3. Proteomic
 
-4️⃣ hDRG Long Read Sequencing
+**Description:** Briefly describe what this app does. (E.g., "A visualization tool for single-cell RNA sequencing data.")
 
-🔹 Description: Briefly describe what this app does. (E.g., "An interactive dashboard for HR analytics, tracking hiring trends and performance metrics.")🔗 Live Demo: [[RNA-Isoforms Dashboard](https://sensoryomics.shinyapps.io/RNAIsoforms/)]📂 Source Code: [GitHub Repository Link]
+🔗 Application Link: [[Proteomics Dashboard](https://sensoryomics.shinyapps.io/Proteomics/)]
+
+## 4. hDRG Long Read Sequencing
+
+**Description:** Briefly describe what this app does. (E.g., "An interactive dashboard for HR analytics, tracking hiring trends and performance metrics.")
+
+🔗 Application Link: [[RNA-Isoforms Dashboard](https://sensoryomics.shinyapps.io/RNAIsoforms/)]
